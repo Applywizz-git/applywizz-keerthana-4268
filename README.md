@@ -20,6 +20,7 @@ If you want to work locally using your own IDE (like VS Code), you can clone thi
 
 #### Steps
 
+
 ```sh
 # Step 1: Clone the repository using your project's Git URL.
 git clone <YOUR_GIT_URL>
@@ -32,3 +33,4 @@ npm i
 
 # Step 4: Start the development server with auto-reloading and instant preview.
 npm run dev
+
